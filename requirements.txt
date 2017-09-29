@@ -1,0 +1,5 @@
+httpie
+praw
+twine
+wheel
+slackclient

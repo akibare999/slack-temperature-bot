@@ -1,0 +1,13 @@
+.DS_Store
+*.csv
+*.pyc
+*.pyo
+*.gz
+*.rpm
+*.log
+*.conf
+*.secret
+*.swp
+*.swo
+*.users
+*.sqlite3
